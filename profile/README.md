@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[MeterHub](meterhub.sun-praise.com) is an organization focusing on meter readings.
+[MeterHub](https://meterhub.sun-praise.com) is an organization focusing on meter readings.
 
 <!--
 
